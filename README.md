@@ -1,4 +1,4 @@
 # fh-wedel
 My university in wedel
 <br>
-Student name Pyanshu
+Student name Pyanshu Mahajan ji
